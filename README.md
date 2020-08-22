@@ -41,4 +41,4 @@ git clone https://github.com/alexanderaugusto/nubank-app-clone.git
   yarn run-ios ou npm run-ios 
   ```
 
-  OBS: Se você já instalou o aplicativo no seu dispositivo uma vez e deseja rodar novamente, basta executar o comando yarn start ou npm start, para apenas iniciar o aplicativo e não instalá-lo novamente. Porém, isso só vale se você não instalou nenhuma dependência que modifique as pastas Android e IOS.
+OBS: Se você já instalou o aplicativo no seu dispositivo uma vez e deseja rodar novamente, basta executar o comando yarn start ou npm start, para apenas iniciar o aplicativo e não instalá-lo novamente. Porém, isso só vale se você não instalou nenhuma dependência que modifique as pastas Android e IOS.
