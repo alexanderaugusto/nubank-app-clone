@@ -1,4 +1,4 @@
-<h1 align="center">Nubank Clonig</h1>
+<h1 align="center">Nubank Cloning</h1>
 <p align="center">
 Este aplicativo foi realizado com o objetivo de aprender um pouco da biblioteca de Animações do React Native na prática.
 </p>
