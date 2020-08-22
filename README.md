@@ -4,8 +4,8 @@ Este aplicativo foi realizado com o objetivo de aprender um pouco da biblioteca 
 </p>
 
 <h3 align="center"> 
-  <img src="src/assets/app.gif" >
-	:white_check_mark:  Nubank Cloning: Concluído  :white_check_mark:
+<img src="src/assets/app.gif" >
+	:white_check_mark:  NubankCloning: Concluído  :white_check_mark:
 </h3>
 
 ## Funcionalidades
