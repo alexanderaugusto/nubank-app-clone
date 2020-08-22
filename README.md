@@ -3,8 +3,8 @@
 Este aplicativo foi realizado com o objetivo de aprender um pouco da biblioteca de Animações do React Native na prática.
 </p>
 
-![Está é uma demonstração do aplitivo](src/assets/app.gif)
 <h3 align="center"> 
+  ![Está é uma demonstração do aplitivo](src/assets/app.gif)
 	:white_check_mark:  Nubank Cloning: Concluído  :white_check_mark:
 </h3>
 
